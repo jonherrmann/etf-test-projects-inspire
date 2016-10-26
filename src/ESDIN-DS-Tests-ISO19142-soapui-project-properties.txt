@@ -137,7 +137,7 @@ O-02##O-02-ImplementsBasicWFS__Description=Capabilities advertizes ImplementsBas
 O-02##O-02-ImplementsBasicWFS__Reference=TG Requirement 62
 O-02##O-02-SpatialOperatorBBOX__Name=SpatialOperator BBOX is declared
 O-02##O-02-SpatialOperatorBBOX__Description=SpatialOperator BBOX is declared in the Capabilities
-O-02##O-02-SpatialOperatorBBOX__Reference==TG Requirement 66
+O-02##O-02-SpatialOperatorBBOX__Reference=TG Requirement 66
 O-02##O-02-ResourceIdentification__Name=Capabilities advertizes ResourceIdentification
 O-02##O-02-ResourceIdentification__Description=Capabilities advertizes fes:ResourceId (ResourceIdentification)
 O-02##O-02-ResourceIdentification__Reference=TG Requirement 64
